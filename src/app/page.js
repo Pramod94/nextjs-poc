@@ -15,14 +15,9 @@ export default function Home() {
         <li>
           <Link href="./about">Go to About page</Link>
         </li>
-        <li>
-          <Link href={"./meals"}>Meals</Link>
-        </li>
+
         <li>
           <Link href={"./meals/share"}>Meals Share</Link>
-        </li>
-        <li>
-          <Link href={"./community"}>Community</Link>
         </li>
       </ul>
     </main>
